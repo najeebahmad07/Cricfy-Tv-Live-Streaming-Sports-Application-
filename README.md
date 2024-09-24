@@ -31,6 +31,7 @@ Follow these simple steps to install CricFy TV on your Android device:
 Here’s what CricFy TV looks like in action:
 
 ![CricFy TV Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqMPaRNnQ3z3-QIAIzb4Mvb3Sf_WbKuVYAI6GsemOSS-h8mYJZ8Y4r5DCcZ7EZ9WoC_mBkmJwsBZ2POTp2ob2fQMDT-icMhRTrVkXqEImtA3WwJbHfWr9Gqab88qBw5DwbA9GoQ2G7fGbOvy1pg4joj2WGqnb8JcPZnoQ01H6Evza0XonrghI2PlILuy4L/s2400/Screenshot_20240924-182351.png)
+![Cricfy TV Screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYgAp_y0AF6EvddFRHbmKMznOcQprVrfhZucpnqMUz7414M-NOG4aNgCK6lmER5hLctj1m8xnBqaGphKUlJqm3F1ZvOnWzED2lClUI3_vfWZkT4BusI96ixHEW6N6Vz8lC4s6Swg_HNfCSJ90vgrixuCIj23Vcv6mPGdUADbU4V1af4ncRN6WvoIfeUgxJ/s2400/Screenshot_20240924-182053.png)
 
 
 ---
